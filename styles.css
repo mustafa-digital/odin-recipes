@@ -1,0 +1,42 @@
+/* styles.css */
+
+body {
+    background: rgb(230, 166, 154);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 300px;
+}
+
+.logo {
+    height: 200px;
+    width: auto;
+}
+
+body.home{
+    padding-left: 300px;
+    /*text-align: center;*/
+}
+
+.home ul li {
+    display: inline-block;
+    padding-left: 50px;
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+.home ul li img {
+    height: 200px;
+    width: 350px;
+}
+
+.list-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nutrition li{
+    display: inline-block;
+    padding-left: 30px;
+}
+
+
+
